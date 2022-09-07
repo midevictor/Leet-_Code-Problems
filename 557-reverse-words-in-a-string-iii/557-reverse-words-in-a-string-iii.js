@@ -11,7 +11,7 @@ var reverseWords = function(s) {
         let reverseArray = reverseWord.join("");
         //console.log(reverseArray);
          newArray[i] = reverseArray;
-         console.log (newArray[i]);  
+         // console.log (newArray[i]);  
     }
      return newArray.join(" ");
 };
