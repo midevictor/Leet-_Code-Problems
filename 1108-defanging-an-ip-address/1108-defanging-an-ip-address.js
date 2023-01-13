@@ -12,7 +12,6 @@ var defangIPaddr = function(address) {
         if(result[i] == '.'){
          result[i] = '[.]'   
         }
-    }
-   
+    } 
     return result.join("")
 };
