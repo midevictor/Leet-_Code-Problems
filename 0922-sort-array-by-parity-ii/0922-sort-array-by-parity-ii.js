@@ -9,7 +9,7 @@ var sortArrayByParityII = function(nums) {
     
     for(let i = 0; i < evenNums.length; i++){
         newArray.push( evenNums[i], oddNums[i]);
-        console.log(newArray[2]);
+     
         
     }
     return newArray
