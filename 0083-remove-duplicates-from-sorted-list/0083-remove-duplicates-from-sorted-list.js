@@ -24,4 +24,22 @@ var deleteDuplicates = function(head) {
     while(i && i.next)
         i.val == i.next.val ? i.next = i.next.next : i = i.next
     return head
+    
+    // let next = head;
+    // if(next === null){return head}
+    // let newNext = head.next;
+    // while(true){
+    //     if(newNext === null){
+    //         return head;
+    //     }
+    //     if(newNext.value === next.value){
+    //         next.next = newNext.next ;
+    //         newNext = next.next;
+    //     }
+    //     else{
+    //         next = next.next;
+    //         newNext = newNext.next;
+    //     }
+    // }
+    // return head;
 };
