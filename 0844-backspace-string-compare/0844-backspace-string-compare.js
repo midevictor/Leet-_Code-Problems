@@ -14,7 +14,7 @@ var backspaceCompare = function(s, t) {
             newArray1.pop(s[i-1]);
         }
     }
-    console.log(newArray1);
+    // console.log(newArray1);
     
     for( let i = 0; i < t.length; i++){
         if(t[i] != "#"){
@@ -25,15 +25,7 @@ var backspaceCompare = function(s, t) {
         }
         
     }
-    console.log(newArray2)
-    // for(let i = 0; i < newArray1.length; i++){
-    //    if(newArray1.length === newArray2.length || newArray1[i] === newArray2[i] || (newArray1 && newArray2) === ""){
-    //     return true;
-    // }
-    // else{
-    // return false;
-    // } 
-    // }
+    // console.log(newArray2)
     if(newArray1.length !== newArray2.length ){
         return false;
     }
