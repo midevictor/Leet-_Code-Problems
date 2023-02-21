@@ -26,6 +26,7 @@ var removeElements = function(head, val) {
             currentNode = currentNode.next;
         }
     }
+    //if head exist and has a value equals to value
       if(head?.val === val){
         return head.next;
     }
