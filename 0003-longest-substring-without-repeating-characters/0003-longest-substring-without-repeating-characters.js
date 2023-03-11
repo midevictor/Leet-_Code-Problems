@@ -9,7 +9,7 @@ var lengthOfLongestSubstring = function(s) {
     }
     let longestStr = 0;
     for( let i = 0; i< s.length; i++){
-        let knownCharacters = [];
+        let knownCharacters = {};
         let currentLongestString = 0;
         for( let j = i; j < s.length; j++ ){
             const currentCharacter = s[j]; 
