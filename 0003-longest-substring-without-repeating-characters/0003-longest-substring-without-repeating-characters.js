@@ -3,16 +3,16 @@
  * @return {number}
  */
 var lengthOfLongestSubstring = function(s) {
+    //if the length of the initial string is less than 1 
     if(s.length <= 1){
         return s.length;
     }
     let longestStr = 0;
     for( let i = 0; i< s.length; i++){
-        let knownCharacters = {};
+        let knownCharacters = [];
         let currentLongestString = 0;
         for( let j = i; j < s.length; j++ ){
-            const currentCharacter = s[j];
-            
+            const currentCharacter = s[j]; 
             if(!knownCharacters[currentCharacter]){
                currentLongestString++;
                knownCharacters[currentCharacter] = true;
