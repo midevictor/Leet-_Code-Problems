@@ -10,7 +10,7 @@ var threeSumClosest = function(nums, target) {
     //sort the array from the smallest to largest
     const sortedNums =  nums.sort((a,b) => a - b);
     
-    //loop through the sorted arrays
+    //loop through the sorted arrays(-2 cos we need 3 numbers to get the sum)
     for(let i = 0; i <= sortedNums.length - 2; i++){
         left = i + 1;
         right = sortedNums.length - 1;
