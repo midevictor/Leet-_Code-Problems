@@ -36,7 +36,9 @@ var fourSum = function(arr, target) {
 //         }
 //     }
 //     return result;
+    //sort the given arr
   arr.sort((a, b) => a - b);
+    //creates an empty result array
   let result = [];
   for (let i = 0; i < arr.length - 3; i++) {
     if (i > 0 && arr[i] == arr[i - 1]) continue;
