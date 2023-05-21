@@ -5,7 +5,9 @@
 var isValidSudoku = function(board) {
     //const row = [[], [], [], [], [], [], [], [], []];
     const row = Array(9).fill().map(()=> Array());
+    //const col = [[], [], [], [], [], [], [], [], []];
     const col = Array(9).fill().map(()=> Array());
+    //const box = [[], [], [], [], [], [], [], [], []];
     const box = Array(9).fill().map(()=> Array());
     
     for( let i = 0; i < 9; i++){
@@ -19,7 +21,7 @@ var isValidSudoku = function(board) {
             row[i].push(board[i][j]);
             col[j].push(board[i][j]);
             box[k].push(board[i][j]);
-            
+            //checks for duplicates 
             if (new Set(row[i]).size !== row[i].length ||new Set(col[j]).size !== col[j].length || new Set(box[k]).size !== box[k].length){
                 return false;
             }
