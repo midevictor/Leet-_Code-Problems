@@ -3,7 +3,7 @@ function validMountainArray(arr: number[]): boolean {
     let right = arr.length - 1;
     while(arr[left] < arr[left + 1] || arr[right] < arr[right - 1]) {
         if(arr[left] < arr[left + 1]){
-            ++left;
+            left++;
         }
         if(arr[right] < arr[right -1]){
             --right;
