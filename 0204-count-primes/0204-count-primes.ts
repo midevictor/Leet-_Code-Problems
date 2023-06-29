@@ -1,6 +1,9 @@
 function countPrimes(n: number): number {
+    //create an array for all numers from 0 to n and marked them as true
     let isPrime = new Array(n).fill(true);
+    //mark 1 as a false( 1 is definitley not a prime number )
     isPrime[1] = false;
+    //for loop starting from 2
     for(let i = 2; i * i < n; i++){
         if(!isPrime[i]) continue;
         for(let j = i * i; j < n; j += i) isPrime[j] = false;
