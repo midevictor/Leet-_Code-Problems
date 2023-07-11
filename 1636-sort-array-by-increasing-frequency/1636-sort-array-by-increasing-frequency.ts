@@ -1,11 +1,11 @@
 function frequencySort(nums: number[]): number[] {
-    const frequencyMap = new Map();
+    const frequencyMap: Map <number, number> = new Map();
     for (let num of nums){
         frequencyMap.set(num, (frequencyMap.get(num) || 0) + 1);
     }
     nums.sort((a, b) => {
-        const frequencyA = frequencyMap.get(a);
-        const frequencyB = frequencyMap.get(b);
+        const frequencyA: number = frequencyMap.get(a);
+        const frequencyB: number = frequencyMap.get(b);
         
         if(frequencyA !== frequencyB){
             return frequencyA - frequencyB;
