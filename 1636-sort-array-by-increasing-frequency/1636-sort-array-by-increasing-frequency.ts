@@ -18,3 +18,12 @@ function frequencySort(nums: number[]): number[] {
     return nums;
 
 };
+// create a map
+// loop through the nums array
+//     1)if the num dosent exist set count to 1 else add  1 to the existing value
+// sort the nums array
+//      1) create a variable for the frequency of a
+//      2) create a variable for the frequency of b
+//      3) if frequencyA!==frequencyB
+//           i)increasing order of freqq
+//      4) else: decreasing order
