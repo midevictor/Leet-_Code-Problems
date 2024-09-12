@@ -4,19 +4,14 @@
  * @return {number}
  */
 var countConsistentStrings = function(allowed, words) {
-     const hashMap = {};
-    let count = words.length;
-    for (let h = 0; h < allowed.length; h++) {
-        hashMap[allowed[h]] = true;
-    }
-    for (let i = 0; i < words.length; i++) {
-        for (let j = 0; j < words[i].length; j++) {
-            if (!hashMap[words[i][j]]) {
-                count -= 1;
-                break;
-            }
-        }
-    }
+    let allowedSet = new Set(allowed)
+    let count = 0;
+    words.forEach(word => {
+        let wordsSet = new Set(word);
+        let combinedWords = new Set([... allowedSet, ...wordsSet]);
+        if(allowedSet.size === combinedWords.size){count++;}
+    })
+    
     return count;
     
 };
