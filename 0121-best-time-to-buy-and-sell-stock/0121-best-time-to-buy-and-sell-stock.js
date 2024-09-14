@@ -17,3 +17,8 @@ var maxProfit = function(prices) {
     return profit;
     
 };
+// initializes the minimum price to the first number in the price array
+// let count = 0;
+//loop through the array
+// if prices at te array is less than min price, make it the new min price
+// else calc profit
