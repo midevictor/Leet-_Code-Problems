@@ -18,6 +18,7 @@ var searchRange = function(nums, target) {
     let temp1;
     let temp2;
     while( startPos !== -1){
+        //saves the position of the target just incase -1 gets returned
         temp1 = startPos;
         startPos = binarySearch(0, startPos-1, nums, target);
     }
