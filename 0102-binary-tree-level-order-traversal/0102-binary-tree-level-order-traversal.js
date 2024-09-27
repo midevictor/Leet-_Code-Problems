@@ -30,27 +30,53 @@ var levelOrder = function(root) {
     //     result.push(currentLevelNodes);
     // }
     // return result;
+    //if no root , return an empty array
+//     if(!root){
+//         return [];
+//     }
+//     //hold the array of each evel
+//     const result = []
+//     //hoold the root of the tree
+//     let queue = [root]
+    
+//     while(queue.length){
+//         let count = 0;
+//         let length = queue.length;
+//         const currentLevelNodes = [];
+//         while(count < length){
+//             const currNode = queue.shift();
+//             currentLevelNodes.push(currNode.val)
+//             if(currNode.left){queue.push(currNode.left)}
+//             if(currNode.right){queue.push(currNode.right)}
+//             count++
+//         }
+        
+//         result.push(currentLevelNodes)
+//     }
+    
+//     return result;
     
     if(!root){
-        return [];
+        return []
     }
-    const result = []
-    let queue = [root]
+    let result = [];
+    let queue = [root];
     
     while(queue.length){
-        let count = 0;
         let length = queue.length;
-        const currentLevelNodes = [];
-        while(count < length){
-            const currNode = queue.shift();
-            currentLevelNodes.push(currNode.val)
-            if(currNode.left){queue.push(currNode.left)}
-            if(currNode.right){queue.push(currNode.right)}
-            count++
+        let currentLevelNode = []
+        for(let i = 0; i < length; i++){
+            const currentNode = queue[i]   
+            currentLevelNode.push(currentNode.val);
+            if(currentNode.left){
+                queue.push(currentNode.left)
+            }
+            if(currentNode.right){
+                queue.push(currentNode.right);
+            }
         }
-        
-        result.push(currentLevelNodes)
+        queue = queue.slice(length);
+        result.push(currentLevelNode)
     }
-    
     return result;
 };
