@@ -17,7 +17,7 @@ var invalidTransactions = function(transactions) {
         });
         
     }
-    console.log(partitionedTnx);
+    // console.log(partitionedTnx);
     
     for(let i = 0; i < partitionedTnx.length; i++){
         const {name: name1, time: time1, amount: amount1, city: city1} = partitionedTnx[i];
