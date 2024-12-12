@@ -17,14 +17,14 @@ var invalidTransactions = function(transactions) {
         });
         
     }
-    // console.log(partitionedTnx);
+     //console.log(partitionedTnx);
     
     for(let i = 0; i < partitionedTnx.length; i++){
         const {name: name1, time: time1, amount: amount1, city: city1} = partitionedTnx[i];
         if(amount1 > 1000){
             invalid.add(i)
         }
-        for(let j = 0; j < partitionedTnx.length; j++){
+        for(let j = i+1; j < partitionedTnx.length; j++){
         const {name: name2, time: time2, amount: amount2, city: city2} = partitionedTnx[j];
             if(name1 === name2 && city1 !== city2 && Math.abs(time1 - time2 ) <= 60){
                 invalid.add(i);
@@ -32,9 +32,11 @@ var invalidTransactions = function(transactions) {
             }
             
         }
+        
+        console.log(invalid);
       
         
     }
-    return Array.from(invalid).map(index => transactions[index])
+     return Array.from(invalid).map(index => transactions[index])
     
 };
