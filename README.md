@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0419-battleships-in-a-board](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0419-battleships-in-a-board) |
+| [0852-friends-of-appropriate-ages](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0852-friends-of-appropriate-ages) |
 | [0952-word-subsets](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0952-word-subsets) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/midevictor/Leet-_Code-Problems/tree/master/2292-counting-words-with-a-given-prefix) |
 ## String
@@ -40,4 +41,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0419-battleships-in-a-board](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0419-battleships-in-a-board) |
+## Two Pointers
+|  |
+| ------- |
+| [0852-friends-of-appropriate-ages](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0852-friends-of-appropriate-ages) |
+## Binary Search
+|  |
+| ------- |
+| [0852-friends-of-appropriate-ages](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0852-friends-of-appropriate-ages) |
+## Sorting
+|  |
+| ------- |
+| [0852-friends-of-appropriate-ages](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0852-friends-of-appropriate-ages) |
 <!---LeetCode Topics End-->
