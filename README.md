@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0054-spiral-matrix) |
 | [0134-gas-station](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0134-gas-station) |
 | [0152-maximum-product-subarray](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0209-minimum-size-subarray-sum) |
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0054-spiral-matrix) |
 | [0419-battleships-in-a-board](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0419-battleships-in-a-board) |
 | [1396-count-servers-that-communicate](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1396-count-servers-that-communicate) |
 | [2685-first-completely-painted-row-or-column](https://github.com/midevictor/Leet-_Code-Problems/tree/master/2685-first-completely-painted-row-or-column) |
@@ -88,4 +90,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0209-minimum-size-subarray-sum) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
