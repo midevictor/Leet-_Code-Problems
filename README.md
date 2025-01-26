@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0134-gas-station](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0134-gas-station) |
 | [0152-maximum-product-subarray](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0152-maximum-product-subarray) |
+| [0209-minimum-size-subarray-sum](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0419-battleships-in-a-board](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0419-battleships-in-a-board) |
 | [0852-friends-of-appropriate-ages](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0852-friends-of-appropriate-ages) |
 | [0952-word-subsets](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0952-word-subsets) |
@@ -61,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0852-friends-of-appropriate-ages](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0852-friends-of-appropriate-ages) |
 ## Sorting
 |  |
@@ -78,4 +80,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1396-count-servers-that-communicate) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
