@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0048-rotate-image](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0134-gas-station](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0134-gas-station) |
 | [0152-maximum-product-subarray](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0169-majority-element) |
@@ -33,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0169-majority-element) |
 | [0952-word-subsets](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1502-construct-k-palindrome-strings) |
@@ -58,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0048-rotate-image](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0419-battleships-in-a-board](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0419-battleships-in-a-board) |
 | [1396-count-servers-that-communicate](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1396-count-servers-that-communicate) |
 | [2685-first-completely-painted-row-or-column](https://github.com/midevictor/Leet-_Code-Problems/tree/master/2685-first-completely-painted-row-or-column) |
