@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0952-word-subsets](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0952-word-subsets) |
+| [1160-letter-tile-possibilities](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1160-letter-tile-possibilities) |
 | [1502-construct-k-palindrome-strings](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/midevictor/Leet-_Code-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0169-majority-element) |
 | [0952-word-subsets](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0952-word-subsets) |
+| [1160-letter-tile-possibilities](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1364-tuple-with-same-product) |
 | [1502-construct-k-palindrome-strings](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -65,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0169-majority-element) |
+| [1160-letter-tile-possibilities](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1502-construct-k-palindrome-strings) |
@@ -155,5 +158,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1160-letter-tile-possibilities) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/midevictor/Leet-_Code-Problems/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
