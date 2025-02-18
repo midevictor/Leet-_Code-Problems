@@ -11,7 +11,7 @@ var numTilePossibilities = function(tiles) {
         freqMap.set(ch, (freqMap.get(ch) || 0) + 1);
     }
 
-    function backtrack(path) {
+    function backtrack() {
         // console.log(`Path: ${path}, FreqMap:`, Object.fromEntries(freqMap));
 
         for (let [ch, freq] of freqMap.entries()) {
