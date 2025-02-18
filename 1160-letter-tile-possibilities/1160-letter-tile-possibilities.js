@@ -12,22 +12,22 @@ var numTilePossibilities = function(tiles) {
     }
 
     function backtrack(path) {
-        console.log(`Path: ${path}, FreqMap:`, Object.fromEntries(freqMap));
+        // console.log(`Path: ${path}, FreqMap:`, Object.fromEntries(freqMap));
 
         for (let [ch, freq] of freqMap.entries()) {
             if (freq > 0) {
                 freqMap.set(ch, freq - 1);
                 count++;
 
-                backtrack(path + ch);
+                backtrack();
 
                 freqMap.set(ch, freq); // Undo choice
             }
         }
     }
 
-    backtrack("");
+    backtrack();
     return count;
 };
 
-console.log("Total Sequences:", numTilePossibilities("AAB"));
+// console.log("Total Sequences:", numTilePossibilities("AAB"));
