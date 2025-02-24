@@ -16,7 +16,10 @@ var punishmentNumber = function(n) {
 };
 
 
+// backtracking
+
 function isPunishmentNumber(num, sqr, start = 0, currentSum = 0) {
+    //base condition, checkif currSum == num at the end of loop
     if (start === sqr.length) {
         return currentSum === num;
     }
