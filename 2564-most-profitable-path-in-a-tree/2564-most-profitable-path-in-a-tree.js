@@ -8,6 +8,9 @@ var mostProfitablePath = function(edges, bob, amount) {
     const tree = new Map();
     
     // Step 1: Build the tree as an adjacency list
+    // because the edge is an undirected tree
+    //so we need to get the neigbhors of each node
+
     for (const [a, b] of edges) {
         if (!tree.has(a)) tree.set(a, []);
         if (!tree.has(b)) tree.set(b, []);
@@ -16,6 +19,7 @@ var mostProfitablePath = function(edges, bob, amount) {
     }
 
     // Step 2: Find Bob’s arrival times at each node
+    //new map  that hold node and time for each feasible node bob goes thru
     const bobTime = new Map();
     
     function findBobPath(node, parent, time) {
