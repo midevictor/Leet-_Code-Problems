@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0952-word-subsets](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0952-word-subsets) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1160-letter-tile-possibilities) |
+| [1170-shortest-common-supersequence](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1170-shortest-common-supersequence) |
 | [1502-construct-k-palindrome-strings](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0152-maximum-product-subarray) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [1170-shortest-common-supersequence](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1170-shortest-common-supersequence) |
 ## Breadth-First Search
 |  |
 | ------- |
