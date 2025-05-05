@@ -12,7 +12,6 @@ var getHappyString = function(n, k) {
             result.push(curr);
             return
         }
-
         for(let ch of chars){
             if(curr.length === 0 || curr[curr.length - 1] !== ch){
                 backtrack(curr + ch);
@@ -21,9 +20,7 @@ var getHappyString = function(n, k) {
         }
 
     }
-
     backtrack("");
-
     return result.length >= k ? result[k-1] : "";
     
 };
