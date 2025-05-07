@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0952-word-subsets](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0952-word-subsets) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0152-maximum-product-subarray) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -192,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0022-generate-parentheses) |
 | [1160-letter-tile-possibilities](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2107-find-unique-binary-string](https://github.com/midevictor/Leet-_Code-Problems/tree/master/2107-find-unique-binary-string) |
