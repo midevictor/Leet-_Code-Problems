@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0952-word-subsets) |
+| [1272-invalid-transactions](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1272-invalid-transactions) |
 | [1364-tuple-with-same-product](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1396-count-servers-that-communicate) |
 | [1477-product-of-the-last-k-numbers](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1477-product-of-the-last-k-numbers) |
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1170-shortest-common-supersequence) |
+| [1272-invalid-transactions](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1272-invalid-transactions) |
 | [1502-construct-k-palindrome-strings](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -68,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0952-word-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1160-letter-tile-possibilities) |
+| [1272-invalid-transactions](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1272-invalid-transactions) |
 | [1364-tuple-with-same-product](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1502-construct-k-palindrome-strings](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1502-construct-k-palindrome-strings) |
@@ -128,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0169-majority-element](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0169-majority-element) |
 | [0852-friends-of-appropriate-ages](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0852-friends-of-appropriate-ages) |
+| [1272-invalid-transactions](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1272-invalid-transactions) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/midevictor/Leet-_Code-Problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Dynamic Programming
 |  |
