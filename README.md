@@ -104,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0419-battleships-in-a-board](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0419-battleships-in-a-board) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -189,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0020-valid-parentheses) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/midevictor/Leet-_Code-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/midevictor/Leet-_Code-Problems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/midevictor/Leet-_Code-Problems/tree/master/3447-clear-digits) |
@@ -213,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -220,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -234,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Doubly-Linked List
 |  |
