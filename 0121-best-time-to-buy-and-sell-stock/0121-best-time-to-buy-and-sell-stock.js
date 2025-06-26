@@ -3,22 +3,28 @@
  * @return {number}
  */
 var maxProfit = function(prices) {
-    let minimumPrice = prices[0];
-    let profit = 0;
+    // let max = 0;
+    // for(let i = 0; i < prices.length; i++){
+    //     for(let j = i + 1; j < prices.length; j++){
+    //         if(prices[i] > prices[j]){
+    //             continue;
+    //         }
+    //         max = Math.max(max, prices[j]-prices[i]);
+    //     }
+    // }
+    // return max;
 
-    for( let i = 0; i < prices.length; i++){
-        if(prices[i] < minimumPrice){
-            minimumPrice = prices[i];
+    let min = prices[0];
+    let profit = 0;
+    for(let i = 0; i < prices.length; i++){
+        if(prices[i] < min){
+            min = prices[i];
         }
-        else if((prices[i] - minimumPrice) > profit){
-            profit = prices[i] - minimumPrice;
+        else if(prices[i] - min > profit){
+            profit = prices[i] - min;
+
         }
     }
     return profit;
     
 };
-// initializes the minimum price to the first number in the price array
-// let count = 0;
-//loop through the array
-// if prices at te array is less than min price, make it the new min price
-// else calc profit
