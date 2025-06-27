@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0134-gas-station) |
 | [0152-maximum-product-subarray](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0152-maximum-product-subarray) |
@@ -212,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0078-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2107-find-unique-binary-string](https://github.com/midevictor/Leet-_Code-Problems/tree/master/2107-find-unique-binary-string) |
@@ -249,4 +251,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
