@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0011-container-with-most-water) |
 | [0048-rotate-image](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0054-spiral-matrix) |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0134-gas-station) |
 | [1502-construct-k-palindrome-strings](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/midevictor/Leet-_Code-Problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -127,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0852-friends-of-appropriate-ages](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0852-friends-of-appropriate-ages) |
 ## Binary Search
