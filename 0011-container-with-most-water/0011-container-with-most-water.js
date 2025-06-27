@@ -15,38 +15,38 @@ var maxArea = function(height) {
     // }
     // return maxArea;
 
-    // let a = 0;
-    // let b = height.length - 1;
-    // let maxArea = 0;
-    // while (a < b){
-    //     let heigh = Math.min(height[a], height[b]);
-    //     let width =  b - a;
-    //     let area = width * heigh;
-    //     maxArea = Math.max(maxArea, area);
+    let a = 0;
+    let b = height.length - 1;
+    let maxArea = 0;
+    while (a < b){
+        let heigh = Math.min(height[a], height[b]);
+        let width =  b - a;
+        let area = width * heigh;
+        maxArea = Math.max(maxArea, area);
 
-    //     if(height[a] <= height[b]){
-    //         a++;
-    //     }
-    //     else{
-    //         b--;
-    //     }
+        if(height[a] <= height[b]){
+            a++;
+        }
+        else{
+            b--;
+        }
 
-    // }
-    // return maxArea;
-
-    let max = 0;
-    for (let low = 0, high = height.length - 1; low < high; ) {
-	    let area = (high - low) * Math.min(height[low], height[high]);
-		if (max < area) {
-            max = area;
-        }
-        if (height[low] > height[high]) {
-            high--;
-        }
-        else {
-            low++;
-        }
     }
-    return max;
+    return maxArea;
+
+//     let max = 0;
+//     for (let low = 0, high = height.length - 1; low < high; ) {
+// 	    let area = (high - low) * Math.min(height[low], height[high]);
+// 		if (max < area) {
+//             max = area;
+//         }
+//         if (height[low] > height[high]) {
+//             high--;
+//         }
+//         else {
+//             low++;
+//         }
+//     }
+//     return max;
     
 };
