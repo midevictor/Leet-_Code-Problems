@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0071-simplify-path](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0071-simplify-path) |
 | [0242-valid-anagram](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0242-valid-anagram) |
 | [0952-word-subsets](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0952-word-subsets) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -201,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0071-simplify-path) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/midevictor/Leet-_Code-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/midevictor/Leet-_Code-Problems/tree/master/2456-construct-smallest-number-from-di-string) |
