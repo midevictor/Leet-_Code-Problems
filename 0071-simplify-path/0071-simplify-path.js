@@ -5,7 +5,7 @@
 var simplifyPath = function(path) {
     let stack = [];
     let processedPath = path.split("/");
-    console.log(processedPath);
+    // console.log(processedPath);
     for(let dir of processedPath){
         if(dir === ".."){
             if(stack.length){
