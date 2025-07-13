@@ -3,16 +3,13 @@
  * @return {number}
  */
 var reverse = function(x) {
-    const minimum = -1 * Math.pow(2, 31);
-    const maximum = Math.pow(2,31) - 1;
-    
+    const min = -1  * Math.pow(2,31);
+    const max = Math.pow(2,31) -1;
+
     let reverseInt = Math.sign(x) * parseInt(x.toString().split("").reverse().join(""));
-    
-    if(reverseInt < maximum && reverseInt > minimum){
-        return reverseInt
+
+    if(reverseInt > min && reverseInt < max){
+        return reverseInt;
     }
-    else{
-        return 0;
-    }
-    
+    return 0;
 };
