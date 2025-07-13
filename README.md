@@ -202,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0048-rotate-image) |
 | [1477-product-of-the-last-k-numbers](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/midevictor/Leet-_Code-Problems/tree/master/2448-count-number-of-bad-pairs) |
