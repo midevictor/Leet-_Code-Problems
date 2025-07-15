@@ -22,9 +22,7 @@ var isValid = function(word) {
         }
         }
     }
-    // if(vowel > 0 && consonant > 0){
-    //     return true;
-    // }
+ 
     return vowel > 0 && consonant > 0;
 
     
