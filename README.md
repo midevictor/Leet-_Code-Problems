@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2107-find-unique-binary-string](https://github.com/midevictor/Leet-_Code-Problems/tree/master/2107-find-unique-binary-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/midevictor/Leet-_Code-Problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/midevictor/Leet-_Code-Problems/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3396-valid-word](https://github.com/midevictor/Leet-_Code-Problems/tree/master/3396-valid-word) |
 | [3447-clear-digits](https://github.com/midevictor/Leet-_Code-Problems/tree/master/3447-clear-digits) |
 | [3617-find-the-original-typed-string-i](https://github.com/midevictor/Leet-_Code-Problems/tree/master/3617-find-the-original-typed-string-i) |
 ## String Matching
