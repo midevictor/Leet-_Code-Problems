@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0134-gas-station) |
 | [0152-maximum-product-subarray](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0169-majority-element) |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0242-valid-anagram) |
@@ -185,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [1396-count-servers-that-communicate](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1396-count-servers-that-communicate) |
 ## Sliding Window
 |  |
