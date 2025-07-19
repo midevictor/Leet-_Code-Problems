@@ -10,20 +10,14 @@
  * @return {ListNode}
  */
 var reverseList = function(head) {
-    let prev = null;
-    let current = head;
-    
-    while(current){
-        let next = current.next;
-        current.next = prev;
-        prev = current;
-        current = next  
+    let curr = head;
+    let prev = null
+    while(curr){
+        let nexts = curr.next
+        curr.next = prev;
+        prev = curr;
+        curr = nexts;
     }
-    return prev;  
+    return prev;
+    
 };
-//Explanation of while loop
-// as long as current  != null
-//    initialize next to the "next value after current"
-//    setting the current(next) value to prev
-//    previous value to its own currnet
-//    then current to next
