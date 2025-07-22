@@ -233,18 +233,21 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0071-simplify-path) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0937-online-stock-span](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0937-online-stock-span) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/midevictor/Leet-_Code-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/midevictor/Leet-_Code-Problems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/midevictor/Leet-_Code-Problems/tree/master/3447-clear-digits) |
 ## Design
 |  |
 | ------- |
+| [0937-online-stock-span](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0937-online-stock-span) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Data Stream
 |  |
 | ------- |
+| [0937-online-stock-span](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0937-online-stock-span) |
 | [1477-product-of-the-last-k-numbers](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1477-product-of-the-last-k-numbers) |
 ## Backtracking
 |  |
@@ -304,4 +307,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0206-reverse-linked-list](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0206-reverse-linked-list) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/midevictor/Leet-_Code-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
