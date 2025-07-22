@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0078-subsets) |
@@ -221,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0007-reverse-integer](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0066-plus-one) |
 | [1477-product-of-the-last-k-numbers](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/midevictor/Leet-_Code-Problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/midevictor/Leet-_Code-Problems/tree/master/2802-find-the-punishment-number-of-an-integer) |
