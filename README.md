@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1272-invalid-transactions](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1272-invalid-transactions) |
 | [1364-tuple-with-same-product](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1396-count-servers-that-communicate) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1477-product-of-the-last-k-numbers](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -223,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0007-reverse-integer](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0066-plus-one) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1477-product-of-the-last-k-numbers](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/midevictor/Leet-_Code-Problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/midevictor/Leet-_Code-Problems/tree/master/2802-find-the-punishment-number-of-an-integer) |
