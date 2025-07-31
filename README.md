@@ -295,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0206-reverse-linked-list](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0206-reverse-linked-list) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
@@ -314,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0206-reverse-linked-list) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/midevictor/Leet-_Code-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Monotonic Stack
