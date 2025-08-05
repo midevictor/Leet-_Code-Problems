@@ -5,48 +5,46 @@
  */
 var searchRange = function(nums, target) {
     if(nums.length === 0){
-        return [-1,-1];
+        return [-1 , -1];
     }
-    //gives the mid value from the binary Search function
-    const firstPos = binarySearch(0, nums.length-1,nums,target);
-    //if the -1 was returned from the function
-    if(firstPos === -1){
-        return [-1, -1]
+    let firstPosition = binarySearch(0, nums.length-1, nums, target);
+    if(firstPosition  === -1){
+        return [-1, -1];
     }
-    let startPos = firstPos;
-    let endPos = firstPos;
-    let temp1;
-    let temp2;
-    while( startPos !== -1){
-        //saves the position of the target just incase -1 gets returned
-        temp1 = startPos;
-        startPos = binarySearch(0, startPos-1, nums, target);
+
+    let start = firstPosition ;
+    let end = firstPosition ;
+    let tempPos1;
+    let tempPos2;
+
+    while(start != -1){
+        tempPos1 = start;
+        start = binarySearch(0, start - 1, nums, target);
     }
-    startPos = temp1;
-    
-     while( endPos !== -1){
-        temp2 = endPos;
-        endPos = binarySearch( endPos+1, nums.length-1,nums, target);
+    start = tempPos1;
+
+    while(end != -1){
+        tempPos2 = end;
+        end = binarySearch(end + 1, nums.length - 1, nums, target);
     }
-    endPos = temp2;
-    return [startPos, endPos]
+    end = tempPos2;
+    return [start, end];
+
     
 };
-
-const binarySearch = function(left,right,nums,target){
+const  binarySearch = function(left, right, nums, target){
     while(left <= right){
-        let mid = Math.floor((left+right)/2);
-        let binVal = nums[mid];
-        if(binVal === target){
+        let mid = Math.floor((left + right)/2);
+        if(nums[mid] === target){
             return mid;
         }
-        else if(binVal < target){
+        if(nums[mid] < target){
             left = mid + 1;
         }
-        else{
+        if(nums[mid] > target ){
             right = mid - 1;
         }
-        
     }
     return -1;
+
 }
