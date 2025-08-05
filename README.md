@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0952-word-subsets) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1036-rotting-oranges](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1036-rotting-oranges) |
 | [1063-best-sightseeing-pair](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1063-best-sightseeing-pair) |
 | [1272-invalid-transactions](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1272-invalid-transactions) |
 | [1364-tuple-with-same-product](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1364-tuple-with-same-product) |
@@ -149,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0419-battleships-in-a-board](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0419-battleships-in-a-board) |
+| [1036-rotting-oranges](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1036-rotting-oranges) |
 | [1396-count-servers-that-communicate](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1396-count-servers-that-communicate) |
 | [2685-first-completely-painted-row-or-column](https://github.com/midevictor/Leet-_Code-Problems/tree/master/2685-first-completely-painted-row-or-column) |
 ## Two Pointers
@@ -193,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [1036-rotting-oranges](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1036-rotting-oranges) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1396-count-servers-that-communicate) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/midevictor/Leet-_Code-Problems/tree/master/2564-most-profitable-path-in-a-tree) |
