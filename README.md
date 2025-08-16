@@ -136,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0419-battleships-in-a-board](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0419-battleships-in-a-board) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
@@ -195,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [1036-rotting-oranges](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1036-rotting-oranges) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1396-count-servers-that-communicate) |
@@ -276,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -284,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
