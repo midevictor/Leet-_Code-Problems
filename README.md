@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2448-count-number-of-bad-pairs](https://github.com/midevictor/Leet-_Code-Problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/midevictor/Leet-_Code-Problems/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2685-first-completely-painted-row-or-column](https://github.com/midevictor/Leet-_Code-Problems/tree/master/2685-first-completely-painted-row-or-column) |
+| [3227-find-missing-and-repeated-values](https://github.com/midevictor/Leet-_Code-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3324-split-the-array](https://github.com/midevictor/Leet-_Code-Problems/tree/master/3324-split-the-array) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/midevictor/Leet-_Code-Problems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/midevictor/Leet-_Code-Problems/tree/master/3429-special-array-i) |
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/midevictor/Leet-_Code-Problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2448-count-number-of-bad-pairs](https://github.com/midevictor/Leet-_Code-Problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2685-first-completely-painted-row-or-column](https://github.com/midevictor/Leet-_Code-Problems/tree/master/2685-first-completely-painted-row-or-column) |
+| [3227-find-missing-and-repeated-values](https://github.com/midevictor/Leet-_Code-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3324-split-the-array](https://github.com/midevictor/Leet-_Code-Problems/tree/master/3324-split-the-array) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/midevictor/Leet-_Code-Problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Greedy
@@ -155,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1036-rotting-oranges](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1036-rotting-oranges) |
 | [1396-count-servers-that-communicate](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1396-count-servers-that-communicate) |
 | [2685-first-completely-painted-row-or-column](https://github.com/midevictor/Leet-_Code-Problems/tree/master/2685-first-completely-painted-row-or-column) |
+| [3227-find-missing-and-repeated-values](https://github.com/midevictor/Leet-_Code-Problems/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -245,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1477-product-of-the-last-k-numbers](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/midevictor/Leet-_Code-Problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/midevictor/Leet-_Code-Problems/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3227-find-missing-and-repeated-values](https://github.com/midevictor/Leet-_Code-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/midevictor/Leet-_Code-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Stack
 |  |
