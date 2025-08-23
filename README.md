@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0048-rotate-image) |
@@ -163,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0075-sort-colors) |
@@ -178,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0217-contains-duplicate) |
