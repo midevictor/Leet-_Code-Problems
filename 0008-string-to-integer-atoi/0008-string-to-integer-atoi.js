@@ -3,38 +3,36 @@
  * @return {number}
  */
 var myAtoi = function(s) {
-    const int_max = Math.pow(2, 31) - 1;
-    const int_min = -1 * Math.pow(2, 31);
+    let INT_MAX = Math.pow(2, 31) - 1;
+    let INT_MIN = -1 * Math.pow(2, 31);
+
     
-    let trimmed = "";
-    for(let i = 0; i < s.length; i++){
-        if(s[i] !== " "){
-            trimmed = s.slice(i);
-            break;
-        }
-    }
-    if(trimmed.length === 0)return 0;
+    s = s.trimStart();
+
+    if (s.length === 0) return 0;
+
+    
     let sign = 1;
-    if(trimmed[0] === "-" || trimmed[0] === "+"){
-        sign = trimmed[0] === "-" ? -1 : 1;
-        trimmed = trimmed.slice(1);
+    let i = 0;
+    if (s[i] === '+' || s[i] === '-') {
+        if (s[i] === '-') sign = -1;
+        i++;
     }
+
     
-    let num = "";
-    for(let i = 0; i < trimmed.length; i++){
-        if(trimmed[i] >= '0' && trimmed[i] <= '9'){
-            num += trimmed[i]
-        }
-        else{
-            break;
-        }
+    let numStr = '';
+    while (i < s.length && s[i] >= '0' && s[i] <= '9') {
+        numStr += s[i];
+        i++;
     }
-    if(num.length === 0)return 0;
+
+    if (numStr === '') return 0;
+
+    let num = sign * parseInt(numStr);
+
     
-    num = parseInt(num) * sign;
-    if(num< int_min)return int_min;
-    if(num>int_max)return int_max;
-    
+    if (num < INT_MIN) return INT_MIN;
+    if (num > INT_MAX) return INT_MAX;
+
     return num;
-    
 };
