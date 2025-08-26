@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2107-find-unique-binary-string](https://github.com/midevictor/Leet-_Code-Problems/tree/master/2107-find-unique-binary-string) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/midevictor/Leet-_Code-Problems/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/midevictor/Leet-_Code-Problems/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/midevictor/Leet-_Code-Problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/midevictor/Leet-_Code-Problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2448-count-number-of-bad-pairs](https://github.com/midevictor/Leet-_Code-Problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/midevictor/Leet-_Code-Problems/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -170,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0075-sort-colors) |
 | [0852-friends-of-appropriate-ages](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0852-friends-of-appropriate-ages) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/midevictor/Leet-_Code-Problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
