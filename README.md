@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0008-string-to-integer-atoi](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0022-generate-parentheses) |
