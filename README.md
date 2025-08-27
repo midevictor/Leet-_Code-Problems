@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -159,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0419-battleships-in-a-board](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0419-battleships-in-a-board) |
 | [1036-rotting-oranges](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1036-rotting-oranges) |
 | [1396-count-servers-that-communicate](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1396-count-servers-that-communicate) |
@@ -179,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0540-single-element-in-a-sorted-array) |
