@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1170-shortest-common-supersequence](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1170-shortest-common-supersequence) |
 | [1272-invalid-transactions](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1272-invalid-transactions) |
 | [1502-construct-k-palindrome-strings](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1502-construct-k-palindrome-strings) |
+| [1512-design-underground-system](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1512-design-underground-system) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/midevictor/Leet-_Code-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1364-tuple-with-same-product](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1502-construct-k-palindrome-strings](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1502-construct-k-palindrome-strings) |
+| [1512-design-underground-system](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1512-design-underground-system) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2107-find-unique-binary-string](https://github.com/midevictor/Leet-_Code-Problems/tree/master/2107-find-unique-binary-string) |
@@ -273,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0937-online-stock-span](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0937-online-stock-span) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1477-product-of-the-last-k-numbers) |
+| [1512-design-underground-system](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1512-design-underground-system) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Data Stream
 |  |
