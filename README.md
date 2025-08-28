@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/midevictor/Leet-_Code-Problems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/midevictor/Leet-_Code-Problems/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/midevictor/Leet-_Code-Problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3748-sort-matrix-by-diagonals](https://github.com/midevictor/Leet-_Code-Problems/tree/master/3748-sort-matrix-by-diagonals) |
 ## String
 |  |
 | ------- |
@@ -166,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1396-count-servers-that-communicate](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1396-count-servers-that-communicate) |
 | [2685-first-completely-painted-row-or-column](https://github.com/midevictor/Leet-_Code-Problems/tree/master/2685-first-completely-painted-row-or-column) |
 | [3227-find-missing-and-repeated-values](https://github.com/midevictor/Leet-_Code-Problems/tree/master/3227-find-missing-and-repeated-values) |
+| [3748-sort-matrix-by-diagonals](https://github.com/midevictor/Leet-_Code-Problems/tree/master/3748-sort-matrix-by-diagonals) |
 ## Two Pointers
 |  |
 | ------- |
@@ -199,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1272-invalid-transactions](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1272-invalid-transactions) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/midevictor/Leet-_Code-Problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [3748-sort-matrix-by-diagonals](https://github.com/midevictor/Leet-_Code-Problems/tree/master/3748-sort-matrix-by-diagonals) |
 ## Dynamic Programming
 |  |
 | ------- |
