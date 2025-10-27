@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2107-find-unique-binary-string](https://github.com/midevictor/Leet-_Code-Problems/tree/master/2107-find-unique-binary-string) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/midevictor/Leet-_Code-Problems/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2169-simple-bank-system](https://github.com/midevictor/Leet-_Code-Problems/tree/master/2169-simple-bank-system) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/midevictor/Leet-_Code-Problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/midevictor/Leet-_Code-Problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/midevictor/Leet-_Code-Problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2107-find-unique-binary-string](https://github.com/midevictor/Leet-_Code-Problems/tree/master/2107-find-unique-binary-string) |
+| [2169-simple-bank-system](https://github.com/midevictor/Leet-_Code-Problems/tree/master/2169-simple-bank-system) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/midevictor/Leet-_Code-Problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2448-count-number-of-bad-pairs](https://github.com/midevictor/Leet-_Code-Problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2685-first-completely-painted-row-or-column](https://github.com/midevictor/Leet-_Code-Problems/tree/master/2685-first-completely-painted-row-or-column) |
@@ -243,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0054-spiral-matrix](https://github.com/midevictor/Leet-_Code-Problems/tree/master/0054-spiral-matrix) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/midevictor/Leet-_Code-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2169-simple-bank-system](https://github.com/midevictor/Leet-_Code-Problems/tree/master/2169-simple-bank-system) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/midevictor/Leet-_Code-Problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/midevictor/Leet-_Code-Problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/midevictor/Leet-_Code-Problems/tree/master/3447-clear-digits) |
@@ -283,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1477-product-of-the-last-k-numbers](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1512-design-underground-system](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1512-design-underground-system) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/midevictor/Leet-_Code-Problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2169-simple-bank-system](https://github.com/midevictor/Leet-_Code-Problems/tree/master/2169-simple-bank-system) |
 ## Data Stream
 |  |
 | ------- |
